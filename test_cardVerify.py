@@ -1,4 +1,4 @@
-import cardvalidate
+import cardVerify
 
 def test_validateName():
     assert cardVerify.validateName("Akash")==True
